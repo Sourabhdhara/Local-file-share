@@ -108,17 +108,11 @@ Inside app.py:
 This project is licensed under the MIT License.
 Feel free to adapt and extend!
 
-🌟 Extras you could add:
+🌟 Additional:
 - Dockerfile for containerized deployment
 - Systemd unit for running as a service
 - Simple username-based auth flow in the UI
 
 ---
 
-This version is **cleaner, more engaging, and visually appealing** with badges, emojis, and structured sections.  
 
-Would you like me to also create a **Dockerfile** so you can run this server easily in a container?
-
-
-
-Werkzeug==2.3.6
