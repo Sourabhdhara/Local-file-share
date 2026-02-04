@@ -1,4 +1,3 @@
-# Local-file-share
 # Local File Share (Flask + Socket.IO)
 
 A small local network file sharing server built with Flask and Flask-SocketIO.
